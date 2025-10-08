@@ -1,3 +1,5 @@
+![My Profile Banner]([https://i.imgur.com/abcd1234.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.hubspot.com%2Fwebsite%2Fhow-to-start-coding&psig=AOvVaw0DpAcycXZb1kGojOOYL6Vp&ust=1760026010764000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjVtP79lJADFQAAAAAdAAAAABAE))
+
 <h1 align="center">Hi 👋, I'm Ankit Kumar Pradhan</h1>
 <h3 align="center">I’m a creator, thinker, and problem-solver. I explore technology not just to build, but to innovate, automate, and inspire. Every project I touch is a chance to push boundaries and see what’s possible when creativity meets logic.</h3>
 
