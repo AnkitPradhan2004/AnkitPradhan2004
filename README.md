@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Own Choice Volunteer](https://ownchoicevolunteerocv-ankitpradhan.netlify.app/)
 
-- 🌱 I’m currently learning **typescript , mongodb**
+- 🌱 I’m currently learning **typescript , mongodb advanced
 
 - 👯 I’m looking to collaborate on [Own Choice Volunteer](https://ownchoicevolunteerocv-ankitpradhan.netlify.app/)
 
